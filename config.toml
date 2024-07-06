@@ -1,0 +1,20 @@
+
+[general]
+	toxic_mode = "undefined"
+
+	[general.category]
+		color_picker = "255,69,69,118"
+		text = "asd"
+
+[diana]
+	test = true
+	color_picker = "255,0,0,255"
+	text = ""
+
+[commands]
+	prefix = "+"
+	text = ""
+
+[undefined]
+	toxic_mode = "undefined"
+

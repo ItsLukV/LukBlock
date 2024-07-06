@@ -1,0 +1,11 @@
+
+[general]
+	toxic_mode = true
+	rare_drop_message = "Crazy"
+
+[diana]
+	test = true
+
+[commands]
+	prefix = "+"
+
